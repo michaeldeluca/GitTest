@@ -14,7 +14,7 @@ namespace TestingGit.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            return Ok("I'm OK!");
+            return Ok("I'm OK thank you. This is the rob branch!");
         }
     }
 }
